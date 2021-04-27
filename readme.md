@@ -12,6 +12,6 @@ Align elements according to standard placement
 Semantics: 
 It means structuring the code for better handling, facilitating navigation by search engines and screen readers.
 
-Titles and Paragraphs:
+Titles and Paragraphs:<br>
 
 
