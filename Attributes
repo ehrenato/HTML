@@ -1,44 +1,26 @@
-List of global attributes:
+List of global attributes: (Source: https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes)
+
 accesskey
 autocapitalize
 class
-
 contenteditable
-
 contextmenu
-
 data-*
-
 draggable
-
 enterkeyhint
-
 exportparts
-
 hidden
-
 inputmode
-
 is
-
 itemid
-
 itemprop
-
 itemref
-
 itemscope
-
 itemtype
-
 nonce
-
 slot
-
 style
-
 title
-
 translate
 
 accesskey
