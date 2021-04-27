@@ -1,2 +1,5 @@
-# HTML
-Introduction to Html
+Introduction to HTML study:
+
+Comments
+Attributes
+Hierarchy
