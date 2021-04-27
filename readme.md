@@ -9,9 +9,9 @@ Global attributes are attributes common to all HTML elements; they can be used o
 Hierarchy:
 Align elements according to standard placement
 
-Semantics: 
+Semantics: <br>
 It means structuring the code for better handling, facilitating navigation by search engines and screen readers.
 
-Titles and Paragraphs:<br>
+Titles and Paragraphs:
 
 
