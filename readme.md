@@ -20,6 +20,14 @@ Lists:<br>
 Organizes the code to facilitate understanding.
 
 Blockquote:<br>
-Organizes the code and facilitates the search by search engines (use the attribute <cite>).
+Organizes the code and facilitates the search by search engines (use the attribute cite).
 
+Elements:<br>
+Used to group contents and text (div and span)
+
+Hyperlink:<br>
+It is used to refer to external or internal(anchor) links.
+
+Table:<br>
+Used to organize data and make it easier to read.
 
