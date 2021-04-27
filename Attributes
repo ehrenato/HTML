@@ -1,4 +1,47 @@
-List of global attributes
+List of global attributes:
+accesskey
+
+autocapitalize
+
+class
+
+contenteditable
+
+contextmenu
+
+data-*
+
+draggable
+
+enterkeyhint
+
+exportparts
+
+hidden
+
+inputmode
+
+is
+
+itemid
+
+itemprop
+
+itemref
+
+itemscope
+
+itemtype
+
+nonce
+
+slot
+
+style
+
+title
+
+translate
 
 accesskey
 Provides a hint for generating a keyboard shortcut for the current element. This attribute consists of a space-separated list of characters. The browser should use the first one that exists on the computer keyboard layout.
