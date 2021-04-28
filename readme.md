@@ -31,3 +31,10 @@ It is used to refer to external or internal(anchor) links.
 Table:<br>
 Used to organize data and make it easier to read.
 
+Head:<br>
+Information that does not appear on the page, but is used in configuration.
+
+Meta SEO:<br>
+Very important to improve search by search engines. You can customize and add data specific of your site.
+
+
